@@ -1,1 +1,1 @@
-Bug Huntin Cheat Sheet
+# Bug Hunting Cheat Sheet
